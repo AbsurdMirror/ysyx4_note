@@ -2,3 +2,11 @@
 
 - 学号: ysyx22040791
 - 姓名: 董正翔
+
+## 1. 预学习阶段
+
+### 1.1 Linux系统安装和基本使用
+
+本部分记录了MIT的Linux工具使用系列课程: The Missing Semester of Your CS Education的学习笔记。
+
+- [1.1.1 课程概览与shell](./markdown/1/1_1/1_1_1)
