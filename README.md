@@ -10,3 +10,4 @@
 本部分记录了MIT的Linux工具使用系列课程: The Missing Semester of Your CS Education的学习笔记。
 
 - [1.1.1 课程概览与shell](./markdown/1/1_1/1_1_1)
+- [1.1.2 Shell工具和脚本](./markdown/1/1_1/1_1_2)
