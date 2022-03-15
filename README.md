@@ -17,3 +17,9 @@
 - [1.1.6 版本控制(Git)](./markdown/1/1_1/1_1_6)
 - [1.1.7 调试及性能分析](./markdown/1/1_1/1_1_7)
 - [1.1.8 元编程](./markdown/1/1_1/1_1_8)
+
+### 1.2 搭建verilator仿真环境
+
+本部分完成了verilator仿真环境、NVBoard虚拟FPGA板卡的搭建和基本使用。
+
+- [1.2 搭建verilator仿真环境](./markdown/1/1_2)
