@@ -23,3 +23,9 @@
 本部分完成了verilator仿真环境、NVBoard虚拟FPGA板卡的搭建和基本使用。
 
 - [1.2 搭建verilator仿真环境](./markdown/1/1_2)
+
+### 1.2 PA1阶段1
+
+本部分完成了PA1阶段1。
+
+- [1.3 PA1阶段1](./markdown/1/1_3)
